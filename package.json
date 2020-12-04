@@ -1,6 +1,6 @@
 {
-  "name": "taller-nodejs-postgres",
-  "main": "server.js",
+  "name": "ucom.taller3.mascotas",
+  "main": "app.js",
   "dependencies": {
     "base64-img": "^1.0.4",
     "base64-to-image": "^1.0.2",
